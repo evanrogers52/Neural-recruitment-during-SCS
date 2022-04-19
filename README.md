@@ -19,7 +19,7 @@ Morphological reconstruction:
 Ion channel electrophysiology (experimental):
   Melnick, Igor V., et al. "Ionic basis of tonic firing in spinal substantia gelatinosa neurons of rat." Journal of neurophysiology 91.2 (2004): 646-655.
   
-Ion channel models:
+Ion channel (model files):
   Zhang, Tianhe C., John J. Janik, and Warren M. Grill. "Modeling effects of spinal cord stimulation on wide-dynamic range dorsal horn neurons: influence of  
   stimulation frequency and GABAergic inhibition." Journal of neurophysiology 112.3 (2014): 552-567.
   
