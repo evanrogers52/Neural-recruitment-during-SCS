@@ -5,6 +5,8 @@ Source files to model recruitment of cells during SCS. Associated with the follo
 
 Included is the template to generate a morphological;y-realistic superficial dorsal horn local cell, as well as useful .mod files to include for biophysical modeling in the NEURON software environment.
 
+Additionally, the file "basic_setup.py" gives an example of how to load the cell to begin a simulation.
+
 Helpful references for the material are as follows:
 
 NEURON simulation environment (https://neuron.yale.edu/neuron/):
