@@ -22,8 +22,7 @@ Ion channels (experimental & model files):
   Melnick, Igor V., et al. "Ionic basis of tonic firing in spinal substantia gelatinosa neurons of rat." Journal of neurophysiology 91.2 (2004): 646-655.
   (Made available at: https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=62285#tabs-1)
   
-  Zhang, Tianhe C., John J. Janik, and Warren M. Grill. "Modeling effects of spinal cord stimulation on wide-dynamic range dorsal horn neurons: influence of  
-  stimulation frequency and GABAergic inhibition." Journal of neurophysiology 112.3 (2014): 552-567.
+  Ion channel directory: Zhang, Tianhe C., John J. Janik, and Warren M. Grill. "Modeling effects of spinal cord stimulation on wide-dynamic range dorsal horn neurons: influence of stimulation frequency and GABAergic inhibition." Journal of neurophysiology 112.3 (2014): 552-567.
   (Made available at: https://senselab.med.yale.edu/modeldb/ShowModel?model=168414&file=/ZhangEtAl2014/#tabs-1)
  
  Algorithm for myelinating the model cell:
